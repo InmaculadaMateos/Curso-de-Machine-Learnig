@@ -1,41 +1,71 @@
 # Curso-de-Machine-Learnig
 03/05/2023
 
-1_Python
-Variables y tipos
-Listas
-Operadores
-Formato de cadena (string)
-Condiciones
-Bucles
-Funciones
-Diccionarios
-Avanzado (Opcional)
-Cadenas (Strings)
-Generadores
-Comprensión de listas
-Tuplas
-Funciones
-Avanzado para iteradores
-Funciones lambda
-Funciones map, filter y reduce
+## 1_Python
+_Variables y tipos
 
-2 - Condicionales
-Condicionales
-Operadores de comparación
-¿Qué es cierto?
-Ejercicios
-Ejercicio 1
-Ejercicio 2
-Ejercicio 3
+_Listas
 
-3 - Bucles
-Bucles
-Repetir con while
-Bucle Infinito
-Continuar un bucle
-Iterar con for
-Ejercicio
-Generar secuencias de números
-Bucles anidados
-Ejercicio (Opcional)
+_Operadores
+
+_Formato de cadena (string)
+
+_Condiciones
+
+_Bucles
+
+_Funciones
+
+_Diccionarios
+
+_Avanzado (Opcional)
+
+_Cadenas (Strings)
+
+_Generadores
+
+_Comprensión de listas
+
+_Tuplas
+
+_Funciones
+
+_Avanzado para iteradores
+
+_Funciones lambda
+
+_Funciones map, filter y reduce_
+
+## 2 - Condicionales
+_Condicionales
+
+_Operadores de comparación
+
+_¿Qué es cierto?
+
+_Ejercicios
+
+_Ejercicio 1
+
+_Ejercicio 2
+
+_Ejercicio 3_
+
+## 3 - Bucles
+_Bucles
+
+_Repetir con while
+
+_Bucle Infinito
+
+_Continuar un bucle
+
+_Iterar con for
+
+_Ejercicio
+
+_Generar secuencias de números
+
+_Bucles anidados
+
+_Ejercicio (Opcional)
