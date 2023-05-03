@@ -1,9 +1,7 @@
 # Curso-de-Machine-Learnig
 03/05/2023
 
-1_Python:
-Python es un lenguaje de programación que te permite trabajar rápidamente e integrar sistemas de manera más eficaz.
-En el cual se realizaron diversas actividades como:
+1_Python
 Variables y tipos
 Listas
 Operadores
