@@ -41,11 +41,11 @@
 ## 2 - Condicionales
   ### Condicionales
 
-    Operadores de comparación
+    - Operadores de comparación
 
-    ¿Qué es cierto?
+    - ¿Qué es cierto?
 
-    Ejercicios
+    - Ejercicios
 
       Ejercicio 1
 
@@ -54,20 +54,20 @@
       Ejercicio 3
 
 ## 3 - Bucles
-_Bucles_
+  ### Bucles
 
-  Repetir con while
+    - Repetir con while
 
-    Bucle Infinito
+      Bucle Infinito
 
-    Continuar un bucle
+      Continuar un bucle
 
-  Iterar con for_
+    - Iterar con for
 
-     Ejercicio
+       Ejercicio
 
-  _Generar secuencias de números_
+    - Generar secuencias de números
 
-    Bucles anidados
+      Bucles anidados
 
-    Ejercicio (Opcional)
+      Ejercicio (Opcional)
