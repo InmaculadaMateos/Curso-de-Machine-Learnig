@@ -4,70 +4,70 @@
 ## 1_Python
   _Básico_
 
-    _Variables y tipos_
+    Variables y tipos
 
-    _Listas_
+    Listas
 
-    _Operadores_
+    Operadores
 
-    _Formato de cadena (string)_
+    Formato de cadena (string)
 
-    _Condiciones_
+    Condiciones
 
-    _Bucles_
+    Bucles
 
-    _Funciones_
+    Funciones
 
-    _Diccionarios_
+    Diccionarios
 
   _Avanzado (Opcional)_
 
-    _Cadenas (Strings)_
+    Cadenas (Strings)
 
-    _Generadores_
+    Generadores
 
-    _Comprensión de listas_
+    Comprensión de listas
 
-    _Tuplas_
+    Tuplas
 
-    _Funciones_
+    Funciones
 
-    _Avanzado para iteradores_
+    Avanzado para iteradores
 
-    _Funciones lambda_
+    Funciones lambda
 
-    _Funciones map, filter y reduce_
+    Funciones map, filter y reduce
 
 ## 2 - Condicionales
 _Condicionales_
 
-  _Operadores de comparación_
+  Operadores de comparación
 
-  _¿Qué es cierto?_
+  ¿Qué es cierto?
 
-  _Ejercicios_
+  Ejercicios
 
-    _Ejercicio 1_
+    Ejercicio 1
 
-    _Ejercicio 2_
+    Ejercicio 2
 
-    _Ejercicio 3_
+    Ejercicio 3
 
 ## 3 - Bucles
 _Bucles_
 
-  _Repetir con while_
+  Repetir con while
 
-    _Bucle Infinito_
+    Bucle Infinito
 
-    _Continuar un bucle_
+    Continuar un bucle
 
-  _Iterar con for_
+  Iterar con for_
 
-    _Ejercicio_
+     Ejercicio
 
   _Generar secuencias de números_
 
-    _Bucles anidados_
+    Bucles anidados
 
-    _Ejercicio (Opcional)_
+    Ejercicio (Opcional)
