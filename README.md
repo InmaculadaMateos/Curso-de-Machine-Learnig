@@ -2,7 +2,7 @@
 03/05/2023
 
 ## 1_Python
-  _Básico_
+  ### Básico
 
     Variables y tipos
 
@@ -20,7 +20,7 @@
 
     Diccionarios
 
-  _Avanzado (Opcional)_
+  ### Avanzado (Opcional)
 
     Cadenas (Strings)
 
@@ -39,19 +39,19 @@
     Funciones map, filter y reduce
 
 ## 2 - Condicionales
-_Condicionales_
+  ### Condicionales
 
-  Operadores de comparación
+    Operadores de comparación
 
-  ¿Qué es cierto?
+    ¿Qué es cierto?
 
-  Ejercicios
+    Ejercicios
 
-    Ejercicio 1
+      Ejercicio 1
 
-    Ejercicio 2
+      Ejercicio 2
 
-    Ejercicio 3
+      Ejercicio 3
 
 ## 3 - Bucles
 _Bucles_
