@@ -38,7 +38,7 @@
 
     Funciones map, filter y reduce
 
-## 2 - Condicionales
+## 2_Condicionales
   ### Condicionales
 
     - Operadores de comparación
@@ -53,7 +53,7 @@
 
       Ejercicio 3
 
-## 3 - Bucles
+## 3_Bucles
   ### Bucles
 
     - Repetir con while
