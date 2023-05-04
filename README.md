@@ -4,28 +4,59 @@
 ### 1_Python
   #### Básico:
     
-Variables y tipos, Listas, Operadores, Formato de cadena (string), Condiciones, Bucles, Funciones, Diccionarios
+  Variables y tipos
+  Listas
+  Operadores
+  Formato de cadena (string)
+  Condiciones
+  Bucles
+  Funciones
+  Diccionarios
 
   #### Avanzado (Opcional):
     
-Cadenas (Strings), Generadores, Comprensión de listas, Tuplas, Funciones, Avanzado para iteradores, Funciones lambda, Funciones map, filter y reduce
+  Cadenas (Strings)
+  Generadores
+  Comprensión de listas
+  Tuplas
+  Funciones
+  Avanzado para iteradores
+  Funciones lambda
+  Funciones map
+  filter y reduce
 
 ### 2_Condicionales
   #### Condicionales:
    
-Operadores de comparación, ¿Qué es cierto?, Ejercicios
++ Operadores de comparación
++ ¿Qué es cierto?
++ Ejercicios
+  + Ejercicio 1
+  + Ejercicio 2
+  + Ejercicio 3
 
 ### 3_Bucles
   #### Bucles:
     
-Repetir con while, Bucle Infinito, Continuar un bucle, Iterar con for, Ejercicios, Generar secuencias de números, Bucles anidados, Ejercicios
++ Repetir con while
+  + Bucle Infinito
+  + Continuar un bucle
++ Iterar con for
+  + Ejercicios
++ Generar secuencias de números
+  + Bucles anidados 
+  + Ejercicios
 
 # _04/05/2023_
 ## DIA 2 - MIERCOLES
 ### SpaceX - 1 - Data Collection Api v2
   ####  Etapa 1: Obtencion de datos:
   
-Objetivos, Importación de librerias, Parte 1: Obtén los datos mediante peticiones GET y crea un dataframe, Parte 2: Filtra el dataframe para que solo incluya los lanzamientos de falcon 9, Parte 3: Ajustes finales
++ Objetivos
++ Importación de librerias
+  + Parte 1: Obtén los datos mediante peticiones GET y crea un dataframe
+  + Parte 2: Filtra el dataframe para que solo incluya los lanzamientos de falcon 9
+  + Parte 3: Ajustes finales
 
 ### SpaceX - 2 - EDA
   #### Etapa 2: Análisis de datos exploratorio:
