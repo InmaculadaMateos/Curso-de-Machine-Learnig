@@ -39,14 +39,14 @@ Tarea 4: Crea una columna Class utilizando LandingOutcome Utilizando la columna 
 ### SpaceX - 4 - EDA with Data Visualization
 #### Etapa 4: Visualización de datos
 
-+Objetivos: 
-  +Importación de librerias.
-+Tarea 1: Ejemplo 
-  +Ejercicio 1: Visualiza la relación entre el número de vuelo y la plataforma de despegue. 
-  +Ejercicio 2: Visualiza la relación entre masa de la carga y la plataforma, 
-  +Ejercicio 3: Visualiza la relación entre número de vuelos y órbita, 
-  +Ejercicio 4: Visualiza la relación entre órbita y masa de la carga, 
-  +Ejemplo 2: Visualiza la proabilidad de éxito según la orbita, 
-  +Ejercicio 5: Visualiza la proabilidad de éxito según la plataforma 
-  +Ejemplo 3: Visualizar la evolución de la carga con el tiempo, 
-  +Ejercicio 6: Visualización de la probabilidad de éxito en cada mes
++ Objetivos: 
+  + Importación de librerias.
++ Tarea 1: Ejemplo 
+  + Ejercicio 1: Visualiza la relación entre el número de vuelo y la plataforma de despegue. 
+  + Ejercicio 2: Visualiza la relación entre masa de la carga y la plataforma, 
+  + Ejercicio 3: Visualiza la relación entre número de vuelos y órbita, 
+  + Ejercicio 4: Visualiza la relación entre órbita y masa de la carga, 
+  + Ejemplo 2: Visualiza la proabilidad de éxito según la orbita, 
+  + Ejercicio 5: Visualiza la proabilidad de éxito según la plataforma 
+  + Ejemplo 3: Visualizar la evolución de la carga con el tiempo, 
+  + Ejercicio 6: Visualización de la probabilidad de éxito en cada mes
