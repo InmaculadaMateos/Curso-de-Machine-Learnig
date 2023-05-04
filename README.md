@@ -4,26 +4,26 @@
 ### 1_Python
   #### Básico:
     
-  Variables y tipos
-  Listas
-  Operadores
-  Formato de cadena (string)
-  Condiciones
-  Bucles
-  Funciones
-  Diccionarios
++ Variables y tipos
++ Listas
++ Operadores
++ Formato de cadena (string)
++ Condiciones
++ Bucles
++ Funciones
++ Diccionarios
 
   #### Avanzado (Opcional):
     
-  Cadenas (Strings)
-  Generadores
-  Comprensión de listas
-  Tuplas
-  Funciones
-  Avanzado para iteradores
-  Funciones lambda
-  Funciones map
-  filter y reduce
++ Cadenas (Strings)
++ Generadores
++ Comprensión de listas
++ Tuplas
++ Funciones
++ Avanzado para iteradores
++ Funciones lambda
++ Funciones map
++ filter y reduce
 
 ### 2_Condicionales
   #### Condicionales:
