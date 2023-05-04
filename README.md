@@ -1,9 +1,10 @@
 # Curso-de-Machine-Learnig
 # _03/05/2023_
 ## DIA 1 - MARTES
+
 ### 1_Python
   #### Básico:
-    
+  
 + Variables y tipos
 + Listas
 + Operadores
