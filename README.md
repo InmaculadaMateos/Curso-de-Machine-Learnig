@@ -1,73 +1,55 @@
 # Curso-de-Machine-Learnig
 03/05/2023
+## DIA 1 - MARTES
+### 1_Python
+  #### Básico:
+ 
+Variables y tipos, Listas, Operadores, Formato de cadena (string), Condiciones, Bucles, Funciones, Diccionarios
 
-## 1_Python
-  ### Básico
+  #### Avanzado (Opcional):
 
-    Variables y tipos
+Cadenas (Strings), Generadores, Comprensión de listas, Tuplas, Funciones, Avanzado para iteradores, Funciones lambda, Funciones map, filter y reduce
 
-    Listas
+### 2_Condicionales
+  #### Condicionales:
 
-    Operadores
+- Operadores de comparación,  - ¿Qué es cierto?, - Ejercicios
 
-    Formato de cadena (string)
+### 3_Bucles
+  #### Bucles:
 
-    Condiciones
+- Repetir con while, Bucle Infinito, Continuar un bucle, - Iterar con for, Ejercicios, - Generar secuencias de números, Bucles anidados, Ejercicio (Opcional)
 
-    Bucles
+04/05/2023
+## DIA 2 - MIERCOLES
+### SpaceX - 1 - Data Collection Api v2
+  ####  Etapa 1: Obtencion de datos:
 
-    Funciones
+    Objetivos, Importación de librerias, Parte 1: Obtén los datos mediante peticiones GET y crea un dataframe, Parte 2: Filtra el dataframe para que solo incluya los         lanzamientos de falcon 9, Parte 3: Ajustes finales
+### SpaceX - 2 - EDA
 
-    Diccionarios
+#### Etapa 2: Análisis de datos exploratorio:
 
-  ### Avanzado (Opcional)
+Objectivos(x)
 
-    Cadenas (Strings)
+Importació
 
-    Generadores
+[ ]
 
-    Comprensión de listas
+Importación de librerias
 
-    Tuplas
+Análisis de datos.
 
-    Funciones
+Tarea 1: Calcula el número de
 
-    Avanzado para iteradores
+lanzamientos en cada plataforma.
 
-    Funciones lambda
+Tarea 2: Calcula el número de
 
-    Funciones map, filter y reduce
+lanzamientos para cada órbita. Tarea 3: Calcula el número de diferentes resultados de aterrizaje, distingue los exitosos de los
 
-## 2_Condicionales
-  ### Condicionales
+fallidos.
 
-    - Operadores de comparación
+Tarea 4: Crea una columna Class
 
-    - ¿Qué es cierto?
-
-    - Ejercicios
-
-      Ejercicio 1
-
-      Ejercicio 2
-
-      Ejercicio 3
-
-## 3_Bucles
-  ### Bucles
-
-    - Repetir con while
-
-      Bucle Infinito
-
-      Continuar un bucle
-
-    - Iterar con for
-
-       Ejercicio
-
-    - Generar secuencias de números
-
-      Bucles anidados
-
-      Ejercicio (Opcional)
+utilizando LandingOutcome Utilizando la columna Class.
