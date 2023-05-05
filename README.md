@@ -1,6 +1,5 @@
 # Curso-de-Machine-Learnig
-# _03/05/2023_
-## DIA 1 - MARTES
+# _03/05/2023_## DIA 1 - MARTES
 
 ### 1_Python
   #### Básico:
@@ -14,7 +13,7 @@
 + Funciones
 + Diccionarios
 
-  #### Avanzado (Opcional):
+ #### Avanzado (Opcional):
     
 + Cadenas (Strings)
 + Generadores
