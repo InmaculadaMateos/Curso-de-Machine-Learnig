@@ -1,5 +1,5 @@
 # Curso-de-Machine-Learnig
-# _03/05/2023_## DIA 1 - MARTES
+# _03/05/2023_DIA 1 - MARTES
 
 ### 1_Python
   #### Básico:
@@ -47,8 +47,7 @@
   + Bucles anidados 
   + Ejercicios
 
-# _04/05/2023_
-## DIA 2 - MIERCOLES
+# _04/05/2023_DIA 2 - MIERCOLES
 ### SpaceX - 1 - Data Collection Api v2
   ####  Etapa 1: Obtencion de datos:
   
