@@ -1,7 +1,7 @@
 # Curso-de-Machine-Learnig
 # _03/05/2023_
 
-DIA 1 - MARTES
+## DIA 1 - MARTES
 
 ### 1_Python
   #### Básico:
@@ -51,7 +51,7 @@ DIA 1 - MARTES
 
 # _04/05/2023_
 
-DIA 2 - MIERCOLES
+## DIA 2 - MIERCOLES
 
 ### SpaceX - 1 - Data Collection Api v2
   ####  Etapa 1: Obtencion de datos:
@@ -87,3 +87,32 @@ DIA 2 - MIERCOLES
   + Ejercicio 5: Visualiza la proabilidad de éxito según la plataforma 
   + Ejemplo 3: Visualizar la evolución de la carga con el tiempo
   + Ejercicio 6: Visualización de la probabilidad de éxito en cada mes
+ 
+
+# _05/05/2023_
+
+## DIA 1 - MARTES
+
+### 06 - Introducción a Machine Learning con Scikit-Learn
+
++ Introducción a Machine Learning con Scikit-Learn
+  + Un primer ejemplo.
+    + Ejercicio 1
+  + ¿Cómo mejorar nuestro modelo?
+    + Ejercicio 2
++ La importancia de los conjuntos test y train.
++ Los Hiperparametros (GridSearchCV)
+   + Ejercicio 3
+
+### 09 - Folium
+  #### Generando mapas con Python
+
+  + Introducción
++ Importando las librerías
++ Introducción a Folium
+  + Ejercicio
+  + Stamen Toner Maps
+  + Stamen Terrain Maps
+    + Ejercicio
++ Mapas con indicadores
++ Mapas de Coropletas
