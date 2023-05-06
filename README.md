@@ -48,6 +48,7 @@
   + Bucles anidados 
   + Ejercicios
 
+
 ## DIA 2 - MIERCOLES
 
 ### SpaceX - 1 - Data Collection Api v2
@@ -84,7 +85,9 @@
   + Ejercicio 5: Visualiza la proabilidad de éxito según la plataforma 
   + Ejemplo 3: Visualizar la evolución de la carga con el tiempo
   + Ejercicio 6: Visualización de la probabilidad de éxito en cada mes
- 
+
+_04/05/2023_
+
 ## DIA 3 - JUEVES
 
 ### 06 - Introducción a Machine Learning con Scikit-Learn
@@ -110,6 +113,8 @@
     + Ejercicio
 + Mapas con indicadores
 + Mapas de Coropletas
+
+_05/05/2023_
 
 ## DIA 4 - VIERNES
 
