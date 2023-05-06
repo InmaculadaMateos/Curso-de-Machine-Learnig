@@ -48,8 +48,6 @@
   + Bucles anidados 
   + Ejercicios
 
-# _04/05/2023_
-
 ## DIA 2 - MIERCOLES
 
 ### SpaceX - 1 - Data Collection Api v2
