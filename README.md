@@ -1,5 +1,4 @@
 # Curso-de-Machine-Learnig
-# _03/05/2023_
 
 ## DIA 1 - MARTES
 
@@ -88,10 +87,7 @@
   + Ejemplo 3: Visualizar la evolución de la carga con el tiempo
   + Ejercicio 6: Visualización de la probabilidad de éxito en cada mes
  
-
-# _05/05/2023_
-
-## DIA 1 - MARTES
+## DIA 3 - JUEVES
 
 ### 06 - Introducción a Machine Learning con Scikit-Learn
 
@@ -116,3 +112,23 @@
     + Ejercicio
 + Mapas con indicadores
 + Mapas de Coropletas
+
+## DIA 4 - VIERNES
+
+### SPACEX2 - 5 - Interactive Visual Analytics con Folium
+  #### Etapa 5: Análisis de las ubicaciones de los sitios de lanzamiento con Folium
+
+  + Objetivos
+  + Tarea 1: Marcar todos los lugares de lanzamiento en un mapa
+    + Crear y añadir folium.Circle y folium. Marker para cada sitio de lanzamiento en el mapa del sitio
++ Tarea 2: Marcar en el mapa los lanzamientos exitosos/fracasados de cada sitio
+  + Crea una nueva columna en el dataframe spacex_df llamada marker_color para almacenar los colores de los marcadores basados en el valor 'class
+  + Para cada resultado de lanzamiento en el marco de datos spacex df, añadir un folium.Marker a marker cluster 
++ TAREA 3: Calcular las distancias entre un lugar de lanzamiento y sus proximidades
+
+### SPACEX2 - 6 - Machine Learning Predicciones
+  #### Etapa 6: Predicción mediante aprendizaje automático
+  
++ Objetivos
++ Importar librerias y Definir Funciones Auxiliares
++ Cargar el dataframe
